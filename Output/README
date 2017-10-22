@@ -1,0 +1,4 @@
+Here are various output examples that listen for OSC messages coming from Wekinator. 
+By default the examples listen on port 12000 unless stated otherwise. 
+
+Check the file name to see if it expects continuous values or classifier lables as messages. 
