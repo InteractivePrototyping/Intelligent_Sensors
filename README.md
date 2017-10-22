@@ -1,5 +1,8 @@
 # Intelligent_Sensors
 Inputs and Outputs Example Code for use with Wekinator
+
+Information about Wekinator can be found at www.wekinator.org
+
 by default Input code sends messages out to port 6448
 by default Output code receives messages in from port 12000
 
