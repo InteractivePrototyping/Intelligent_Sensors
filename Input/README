@@ -1,0 +1,4 @@
+Here are themed folders containing examples for varying inputs sending OSC data to Wekinator. 
+
+By Default they send via port 6448
+CHeck the file name or text displayed when opening file to find out the number of Inputs required by Wekinator. 
