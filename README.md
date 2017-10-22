@@ -13,10 +13,10 @@ Some of some stand alone OfX OSC apps (Kinect, Leap, Audio, Covnet and Ableton) 
 https://github.com/ml4a/ml4a-ofx/tree/master/osc-modules
 
 Examples for 
-Myo Band
-DMX
-Bare Conductive / Capacitive Touch
-Max Msp Audio Playlist
-Max Msp Video Playlist 
+Myo Band,
+DMX,
+Bare Conductive / Capacitive Touch,
+Max Msp Audio Playlist,
+Max Msp Video Playlist. 
 
 are written by me adapting the same OSC code structure Rebecca Fiebrink sets up in her examples. 
