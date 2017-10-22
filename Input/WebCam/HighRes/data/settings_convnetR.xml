@@ -1,0 +1,37 @@
+<Convnet_regressor>
+	<Record>0</Record>
+	<Predict>1</Predict>
+	<prediction_lerp>0.2179</prediction_lerp>
+	<hidden_layers>12</hidden_layers>
+	<epochs>176</epochs>
+	<y0>0.5</y0>
+<Convnet_regressor/>
+<y1>0.185</y1>
+	<y2>0.405</y2>
+	<y3>0.555</y3>
+<osc_destination>127.0.0.5</osc_destination>
+	<osc_message>/wek/outputs</osc_message>
+	<osc_port>12000</osc_port>
+<osc_IP>localhost</osc_IP>
+	<osc_msg>/wek/outputs</osc_msg>
+<Sliders>
+		<y0>0.5</y0>
+	</Sliders>
+<OSC_settings>
+		<osc_IP>localhost</osc_IP>
+		<osc_port>12000</osc_port>
+		<osc_msg>/wek/outputs</osc_msg>
+	<IP>localhost</IP>
+		<port>12000</port>
+		<message>/wek/outputs</message>
+	</OSC_settings>
+<Training>
+		<hidden_layers>10</hidden_layers>
+		<epochs>100</epochs>
+	<neurons_in_hidden_layer>10</neurons_in_hidden_layer>
+	<hidden_neurons>20</hidden_neurons>
+	</Training>
+<Prediction_lerp>0.17335</Prediction_lerp>
+<deviceId>0</deviceId>
+<group/>
+</Convnet_regressor>
